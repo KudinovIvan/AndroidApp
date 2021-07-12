@@ -7,7 +7,17 @@ The main screen consists of three text fields (entering the programming language
 **The SQLite database is used**
 ____
 Below is a screenshot of the table with the database of vacancies.
-____
+# ![Picture1](https://github.com/KudinovIvan/AndroidApp/blob/master/assets/Picture1.png)
 The main functions of the user:
 1. Search;
 2. Add to favorites.
+### The user's home page
+# ![Picture2](https://github.com/KudinovIvan/AndroidApp/blob/master/assets/Picture2.png)
+### Filling in the fields
+# ![Picture3](https://github.com/KudinovIvan/AndroidApp/blob/master/assets/Picture3.png)
+### Search result 1
+# ![Picture4](https://github.com/KudinovIvan/AndroidApp/blob/master/assets/Picture4.png)
+### Search result 2
+# ![Picture5](https://github.com/KudinovIvan/AndroidApp/blob/master/assets/Picture5.png)
+### Search result 3
+# ![Picture6](https://github.com/KudinovIvan/AndroidApp/blob/master/assets/Picture6.png)
